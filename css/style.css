@@ -1,0 +1,9 @@
+#container {
+    width: 100vw;
+    height: 100vw;
+}
+.cell {
+  width: 1rem;
+  height: 1rem;
+  background-color: aqua;
+}
