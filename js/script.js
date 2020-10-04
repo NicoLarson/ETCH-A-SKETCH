@@ -29,4 +29,7 @@ document.addEventListener("DOMContentLoaded", () => {
     container.addEventListener("mouseover", (e) => {
         e.target.style.backgroundColor = "#fafafa"
     })
+    container.addEventListener("touchstart", (e) => {
+        e.target.style.backgroundColor = "#fafafa"
+    })
 })
